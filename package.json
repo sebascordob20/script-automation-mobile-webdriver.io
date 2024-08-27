@@ -1,0 +1,19 @@
+{
+  "name": "prueba-automatizada-appium",
+  "version": "1.0.0",
+  "description": "Primer versión pruebas automatizadas aplicativo Beta EG&T Database.",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sebastian Cordoba",
+  "license": "ISC",
+  "devDependencies": {
+    "@wdio/cli": "^9.0.7",
+    "@wdio/mocha-framework": "^9.0.6",
+    "webdriverio": "^9.0.7"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  }
+}
